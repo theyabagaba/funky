@@ -1,5 +1,3 @@
-# Üdvözlöm a kedves kollegaimat 
-
 ```math
 \mmlToken{ms}[fontfamily="
 goombafont;
